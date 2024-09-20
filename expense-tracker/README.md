@@ -1,4 +1,4 @@
-live link : react0-expense-tracker.netlify.app
+open this link to view this in your browser : https://react0-expense-tracker.netlify.app
 
 
 
